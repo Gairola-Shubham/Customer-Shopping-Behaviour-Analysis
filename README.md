@@ -211,11 +211,8 @@ Customer-Shopping-Behavior-Analysis/
 
 ## 📷 Dashboard Preview
 
-Add a screenshot of your Power BI dashboard inside the `Images` folder and reference it below:
+<img width="445" height="253" alt="image" src="https://github.com/user-attachments/assets/a846b5c3-ec91-4c8b-904a-53969a1c03a2" />
 
-```markdown
-![Dashboard](Images/dashboard.png)
-```
 
 ---
 
