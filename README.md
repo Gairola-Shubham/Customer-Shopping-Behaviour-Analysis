@@ -211,7 +211,7 @@ Customer-Shopping-Behavior-Analysis/
 
 ## 📷 Dashboard Preview
 
-<img width="1182" height="667" alt="image" src="docs/Data Architecture.jpeg" />
+<img width="1182" height="667" alt="image" src="docs/Dashboard.png" />
 
 
 ---
